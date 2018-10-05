@@ -1,4 +1,5 @@
-# CourtCounter ![4](https://user-images.githubusercontent.com/35917416/46347645-e67e0e80-c67e-11e8-9414-7189568d539e.png)
+# CourtCounter <img width="100" height="100" src="https://user-images.githubusercontent.com/35917416/46347645-e67e0e80-c67e-11e8-9414-7189568d539e.png">
+
 
 A basketball score recording app.
  
